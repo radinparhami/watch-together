@@ -5,7 +5,7 @@ from payload import verify, Payload, Update
 
 login_data = {
     "username": "radin",
-    "password": "12345"
+    "password": "12345678"
 }
 
 
